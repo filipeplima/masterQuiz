@@ -1,0 +1,17 @@
+.button-option {
+  background-color: #ffffff;
+  border: 1px solid #cccdc6;
+}
+
+.background-perguntas {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.background-perguntas button {
+  margin-right: 5px;
+}
+
+.actions span {
+  margin-right: 10px;
+}
